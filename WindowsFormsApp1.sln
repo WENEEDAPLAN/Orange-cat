@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Рыжик", "WindowsFormsApp1\Рыжик.csproj", "{3D66B447-0911-43BE-9E20-9C4E898A31E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D66B447-0911-43BE-9E20-9C4E898A31E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D66B447-0911-43BE-9E20-9C4E898A31E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D66B447-0911-43BE-9E20-9C4E898A31E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D66B447-0911-43BE-9E20-9C4E898A31E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E21381A-3DE0-4B84-9B1F-74DD9D2C31F3}
+	EndGlobalSection
+EndGlobal
